@@ -1,0 +1,9 @@
+C:\Users\College\source\repos\MyGameService\MyGameService\bin\Debug\MyGameService.exe.config
+C:\Users\College\source\repos\MyGameService\MyGameService\bin\Debug\MyGameService.exe
+C:\Users\College\source\repos\MyGameService\MyGameService\bin\Debug\MyGameService.pdb
+C:\Users\College\source\repos\MyGameService\MyGameService\obj\Debug\MyGameService.csproj.SuggestedBindingRedirects.cache
+C:\Users\College\source\repos\MyGameService\MyGameService\obj\Debug\MyGameService.ProjectInstaller.resources
+C:\Users\College\source\repos\MyGameService\MyGameService\obj\Debug\MyGameService.csproj.GenerateResource.cache
+C:\Users\College\source\repos\MyGameService\MyGameService\obj\Debug\MyGameService.csproj.CoreCompileInputs.cache
+C:\Users\College\source\repos\MyGameService\MyGameService\obj\Debug\MyGameService.exe
+C:\Users\College\source\repos\MyGameService\MyGameService\obj\Debug\MyGameService.pdb

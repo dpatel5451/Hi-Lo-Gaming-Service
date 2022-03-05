@@ -1,0 +1,12 @@
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\bin\Debug\GuessingGameClient.exe.config
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\bin\Debug\GuessingGameClient.exe
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\bin\Debug\GuessingGameClient.pdb
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\obj\Debug\GuessingGameClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\obj\Debug\GuessingGameClient.WelcomePage.resources
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\obj\Debug\GuessingGameClient.GameUI.resources
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\obj\Debug\GuessingGameClient.Properties.Resources.resources
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\obj\Debug\GuessingGameClient.csproj.GenerateResource.cache
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\obj\Debug\GuessingGameClient.csproj.CoreCompileInputs.cache
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\obj\Debug\GuessingGameClient.exe
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\obj\Debug\GuessingGameClient.pdb
+C:\Users\College\source\repos\GuessingGame\GuessingGameClient\obj\Debug\GuessingGameClient.csproj.AssemblyReference.cache

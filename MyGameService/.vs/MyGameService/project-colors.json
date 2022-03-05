@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de19d7e3-9df5-4c64-9367-54664dd2ace7": {
+      "ProjectGuid": "de19d7e3-9df5-4c64-9367-54664dd2ace7",
+      "DisplayName": "MyGameService",
+      "ColorIndex": 0
+    },
+    "3e1f5833-c482-40fd-8628-736d3aaf45db": {
+      "ProjectGuid": "3e1f5833-c482-40fd-8628-736d3aaf45db",
+      "DisplayName": "Test",
+      "ColorIndex": 1
+    },
+    "96fcea64-38d5-4743-a491-9f6208c3f66f": {
+      "ProjectGuid": "96fcea64-38d5-4743-a491-9f6208c3f66f",
+      "DisplayName": "tester",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bfa921bd-3789-42a8-844e-cdcdba12f0ac": {
+      "ProjectGuid": "bfa921bd-3789-42a8-844e-cdcdba12f0ac",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "63eb4c6a-71b7-4ed9-a189-4f0cc9d114a4": {
+      "ProjectGuid": "63eb4c6a-71b7-4ed9-a189-4f0cc9d114a4",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
